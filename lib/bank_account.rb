@@ -13,6 +13,7 @@ class BankAccount
     self.balance += deposit_amt
   end 
   
+  def display_
   
 
 end
