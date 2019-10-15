@@ -24,6 +24,8 @@ class Transfer
     end 
   end 
   
+  def reverse
+  
   
   
   
